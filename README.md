@@ -1,4 +1,4 @@
-# Geospatial Population Density Estimation Using Machine Learning
+# Geospatial Fine-grained Population Density Estimation Using Machine Learning
 
 **Portfolio Case Study | Data Science & Machine Learning Internship at Ooredoo Algeria**
 
